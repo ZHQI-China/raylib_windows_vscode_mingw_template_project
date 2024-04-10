@@ -1,0 +1,2 @@
+# raylib_windows_vscode_mingw_template_project
+raylib windows-vscode-mingw-template-project
